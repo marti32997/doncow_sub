@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "988063285540",
+    "firebase_url": "https://doncow-id.firebaseio.com",
+    "project_id": "doncow-id",
+    "storage_bucket": "doncow-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988063285540:android:bf669f885c5437b46bb3b1",
+        "android_client_info": {
+          "package_name": "com.sub.doncow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988063285540-j6vujvb50duhfh8pjo4k7b23us716ak6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdgjKjYftVsNiiLecNNlNDZ1kYg8S-FGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988063285540-j6vujvb50duhfh8pjo4k7b23us716ak6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
